@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif,Proxima Nova;
+}
+table{
+    margin:100px auto;
+    width: 60%;
+}
+
+.table-header{
+    background-color: #550000;
+    width:900;
+    height:50;
+    text-align: center;
+    color:#fff
+}
+.table-row{
+    background-color:#940000;
+    height: 40;
+    text-align: center;
+    color: #fff;
+}
+.first{
+    height: 35;
+    text-align: center;
+}
+.second{
+    background-color: #e6e6e6;
+    height: 35;
+    text-align: center;
+}
+#first-column,#second-column,#third-column{
+    width: 30%;
+}
